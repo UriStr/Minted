@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minted</string>
+    <string name="richText">I am Rich</string>
+    <string name="diamond_pic">diamondDesc</string>
+</resources>
